@@ -8,8 +8,7 @@ Hi there. I am William Yang.
 
 ### More Information
 
-东洋放送合江记者站 记者
-合江省委办公厅扫地处 副主任
+Bachelor of Laws
 
 ### Contact me
 
