@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi there. I am William Yang.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+东洋放送合江记者站 记者
+合江省委办公厅扫地处 副主任
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[williamyangjz@163.com](mailto:williamyangjz@163.com)
